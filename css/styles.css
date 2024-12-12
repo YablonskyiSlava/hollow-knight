@@ -4451,3 +4451,10 @@ body {
     height: 300px;
 }
 
+h1,
+.h1 {
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }  
